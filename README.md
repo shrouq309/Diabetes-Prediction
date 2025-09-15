@@ -33,3 +33,8 @@ It includes:
 
 - The best model can be used for real-world predictions.
 
+---
+
+## APP 
+
+- https://diabetes-prediction-emsszs29engenhei2xwdby.streamlit.app/#diabetes-prediction
